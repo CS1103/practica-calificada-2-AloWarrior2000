@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PC2POOAlonso"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PC2POOAlonso">
+				<Option output="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/PC2POOAlonso" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 PC2POOAlonso"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PC2POOAlonso/fast">
+				<Option output="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/PC2POOAlonso" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 PC2POOAlonso/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Arena.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Arena.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Armor.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Armor.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Attack.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Attack.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/BruceLee.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/BruceLee.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/ChuckNorris.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/ChuckNorris.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Defense.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Defense.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Elude.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Elude.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Fight.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Fight.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Fighter.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Fighter.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Firearm.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Firearm.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/JasonStatham.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/JasonStatham.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Punch.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Punch.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Saber.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Saber.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Shield.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/Shield.h">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/main.cpp">
+			<Option target="PC2POOAlonso"/>
+		</Unit>
+		<Unit filename="/home/utec/CLionProjects/29/carpeta2/PC2POOAlonso/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
